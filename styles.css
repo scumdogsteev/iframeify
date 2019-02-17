@@ -1,0 +1,34 @@
+    body {background:  url('') repeat  #FFF;
+    font-family: Cabin, Arial, sans-serif;}
+    h1, h2, h3, h4, .post-qoute blockquote, .search-results, .menu, .menu .nav-search form input, .menu-icon .title {font-family: Open Sans, Arial, sans-serif;}
+    
+    a, a:active, cite {color: #56BF4B;}
+    .post-link .link {background: #56BF4B;}
+    .top-bar { background: #34732d;} 
+    .menu-close { background: #34732d;}
+    .top-bar .top-title h1 a, .menu-icon .title {color: #222;}
+    .menu-icon span, .menu-icon span:before, .menu-icon span:after {background-color: #222;}
+    .grid article.logo h1 a, .grid article.logo h2  {color: #444444;}
+    .pace .pace-progress {background: #222;}
+
+    table, th, td {
+       border: 1px solid silver;
+       padding: 10px;
+    }
+    table thead th {
+      text-align:center;
+    }
+    #table-wrapper {
+      position:relative;
+    }
+    #table-scroll {
+      height:600px;
+      overflow:auto;
+      margin-top:40px;
+    }
+    #table-wrapper table thead th .text {
+      position:relative;   
+      top:-40px;
+      z-index:2;
+      height:40px;
+    }
