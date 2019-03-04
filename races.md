@@ -5,6 +5,8 @@
 | 04/13/19 | [Shipley Do-Nuts Dash](http://www.shipleydonutsdash.com/) 2019 | 2ish mi | Houston, TX |
 | 04/14/19 | [Vintage Park 5K](https://runsignup.com/Race/Events/TX/Houston/VintageParkHalfMarathon) 2019 | 5km | Houston, TX |
 | 11/28/19 | [Phillips 66 Turkey Trot](https://houstonturkeytrot.org/) 2019 | 10km | Houston, TX |
+| 01/18/19 | [We Are Houston 5K](http://www.chevronhoustonmarathon.com/) 2020 | 5km | Houston, TX |
+| 01/19/20 | [Aramco Houston Half Marathon](http://www.chevronhoustonmarathon.com/) 2020 | 13.1mi | Houston, TX |
 
 ### Past
 
