@@ -2,8 +2,6 @@
 
 |   Date   | Race | Distance | Location |
 | -------- | ---- | :------: | -------- |
-| 04/13/19 | [Shipley Do-Nuts Dash](http://www.shipleydonutsdash.com/) 2019 | 2ish mi | Houston, TX |
-| 04/14/19 | [Vintage Park 5K](https://runsignup.com/Race/Events/TX/Houston/VintageParkHalfMarathon) 2019 | 5km | Houston, TX |
 | 11/28/19 | [Phillips 66 Turkey Trot](https://houstonturkeytrot.org/) 2019 | 10km | Houston, TX |
 | 01/18/19 | [We Are Houston 5K](http://www.chevronhoustonmarathon.com/) 2020 | 5km | Houston, TX |
 | 01/19/20 | [Aramco Houston Half Marathon](http://www.chevronhoustonmarathon.com/) 2020 | 13.1mi | Houston, TX |
@@ -12,6 +10,8 @@
 
 |   Date   | Race | Distance | Location | Bib #, Results<br />(Steve) | Bib #, Results<br />(Liz) |
 | -------- | ---- | :------: | -------- | --------------------------: | ------------------------: |
+| 04/14/19 | [Vintage Park 5K](https://runsignup.com/Race/Events/TX/Houston/VintageParkHalfMarathon) 2019 | 5km | Houston, TX | [3312, 28:00](https://runsignup.com/Race/Results/33939/IndividualResult/QZfB?#U16542677) | [3313, 30:26](https://runsignup.com/Race/Results/33939/IndividualResult/QZfB?#U16542678) |
+| 04/13/19 | [Shipley Do-Nuts Dash](http://www.shipleydonutsdash.com/) 2019 | 1.75mi | Houston, TX | untimed | untimed |
 | 02/09/19 | [Bearkat Bash](http://www.bearkatbash5k.com/) 2019 | 5km | Houston, TX | [412, 28:09](https://www.runhoustontiming.net/race_result/1549733462_3070675_Bearkat%20FInish%20Age%20Groups%204.htm) | [411, 31:46](https://www.runhoustontiming.net/race_result/1549733462_3070675_Bearkat%20FInish%20Age%20Groups%204.htm) |
 | 01/20/19 | [Aramco Houston Half Marathon](http://www.chevronhoustonmarathon.com/) 2019 | 13.1mi | Houston, TX | [20784, 2:36:25](http://results.houstonmarathon.com/2019/?content=detail&fpid=search&pid=search&idp=99999912E1A2EA00001E3736&lang=EN_CAP&event=HALF&search%5Bname%5D=myles&search_event=HALF) | [20783, 2:30:59](http://results.houstonmarathon.com/2019/?content=detail&fpid=search&pid=search&idp=99999912E1A2EA00001E3724&lang=EN_CAP&event=HALF&search%5Bname%5D=myles&search_event=HALF) |
 | 01/19/19 | [We Are Houston 5K](http://www.chevronhoustonmarathon.com/) 2019 | 5km | Houston, TX | [52606, 31:29](http://results.houstonmarathon.com/2019/?content=detail&fpid=search&pid=search&idp=99999912E1A2EA00001E6568&lang=EN_CAP&event=5K&search%5Bname%5D=myles&search_event=5K) | [52606, 33:04](http://results.houstonmarathon.com/2019/?content=detail&fpid=search&pid=search&idp=99999912E1A2EA00001E6579&lang=EN_CAP&event=5K&search%5Bname%5D=myles&search_event=5K) |
@@ -39,7 +39,7 @@
 | 04/22/17 | [*Star Wars* 10K](http://www.rundisney.com/star-wars-wdw-half-marathon/#10k) 2017<br />([Dark Side Challenge](https://www.rundisney.com/star-wars-wdw-half-marathon/#challenge) 2017) | 10km | Orlando, FL |  [28448, 1:17:03](http://www.trackshackresults.com/disneysports/results/swds/swds17/10k_results.php?Link=68&Type=3&LName=myles&FName=&City=&State=&Country=) | [22918, 1:17:02](http://www.trackshackresults.com/disneysports/results/swds/swds17/10k_results.php?Link=68&Type=3&LName=myles&FName=&City=&State=&Country=) |
 | 04/21/17 | [*Star Wars* 5K](http://www.rundisney.com/star-wars-wdw-half-marathon/#5k) 2017 | 5km | Orlando, FL | 42446, untimed | 42447, untimed |
 | 04/15/17 | [Green 6.2](http://green62.com/) 2017 | 10km | Houston, TX | [301, 1:09:42](http://mychiptime.com/searchevent.php?id=10527) | [300, 1:08:00](http://mychiptime.com/searchevent.php?id=10527) |
-| 04/09/17 | [Vintage Park Half Marathon](http://www.vintageparkhalf.com/) 2017 | 13.1mi | Houston, TX | [2202, 2:30:12](https://runsignup.com/Race/Results/33939/IndividualResult/2017#U16542677) | [2203, 2:27:51 (Liz)](https://runsignup.com/Race/Results/33939/IndividualResult/2017#U16542678) |
+| 04/09/17 | [Vintage Park Half Marathon](http://www.vintageparkhalf.com/) 2017 | 13.1mi | Houston, TX | [2202, 2:30:12](https://runsignup.com/Race/Results/33939/IndividualResult/2017#U16542677) | [2203, 2:27:51](https://runsignup.com/Race/Results/33939/IndividualResult/2017#U16542678) |
 | 04/01/17 | [Alamo Beer Company 5K](http://www.runintexas.com/alamo) 2017<br />([Texas 5K 6-Pack](http://www.runintexas.com/sixpack) 2017) | 5km | San Antonio, TX | [123, 29:54](http://www.runintexas.com/wp-content/uploads/2015/01/04_01_17_alamo.htm) | [122, 32:11](http://www.runintexas.com/wp-content/uploads/2015/01/04_01_17_alamo.htm) |
 | 03/18/17 | [Goliad Brewing Co. 5K](http://www.runintexas.com/goliad) 2017<br />([Texas 5K 6-Pack](http://www.runintexas.com/sixpack) 2017) | 5km | Goliad, TX | [142, 29:52](http://www.runintexas.com/wp-content/uploads/2016/07/Goliad_2017-03-18_agegroups.pdf) | [141, 30:40](http://www.runintexas.com/wp-content/uploads/2016/07/Goliad_2017-03-18_agegroups.pdf) |
 | 03/04/17 | [Middleton Brewing Co. 5K Beer Run](http://www.runintexas.com/middleton) 2017<br />([Texas 5K 6-Pack](http://www.runintexas.com/sixpack) 2017) | 5km | San Marcos, TX | [150, 30:11](http://www.runintexas.com/wp-content/uploads/2016/03/03_04_17_middleton.htm) | [149, 30:31](http://www.runintexas.com/wp-content/uploads/2016/03/03_04_17_middleton.htm) |
