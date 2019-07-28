@@ -1,5 +1,5 @@
 ## iframeify.R
-## by Steve Myles / https://s.mylesandmyles.info/
+## by Steve Myles / https://stevemyles.site/
 ## 10 February 2019
 ##
 ## converts a markdown file into an iframe-able html file for embedding in

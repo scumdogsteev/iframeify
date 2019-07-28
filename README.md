@@ -5,8 +5,8 @@
 * **Why:**  tumblr won't play nice when I paste in html 
 * **How:**  a simple [R script][script]; see the [blog post][post] for more detail
 
-[post]:https://s.mylesandmyles.info/blog/2019/02/11/iframeify/
-[home]:https://s.mylesandmyles.info/
+[post]:https://stevemyles.site/blog/2019/02/11/iframeify/
+[home]:https://stevemyles.site/
 [tumblr]:https://tumblr.com/
 [repo]:https://github.com/scumdogsteev/iframeify
 [script]:https://github.com/scumdogsteev/iframeify/blob/master/iframeify.R
