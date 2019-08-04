@@ -2,7 +2,6 @@
 
 |   Date   | Race | Distance | Location |
 | -------- | ---- | :------: | -------- |
-| 08/03/19 | [Southern Star Brewing Co. 5K](http://www.runintexas.com/star) 2019 | 5km | Conroe, TX |
 | 11/28/19 | [Phillips 66 Turkey Trot](https://houstonturkeytrot.org/) 2019 | 10km | Houston, TX |
 | 01/18/19 | [We Are Houston 5K](http://www.chevronhoustonmarathon.com/) 2020 | 5km | Houston, TX |
 | 01/19/20 | [Aramco Houston Half Marathon](http://www.chevronhoustonmarathon.com/) 2020 | 13.1mi | Houston, TX |
@@ -11,7 +10,8 @@
 
 |   Date   | Race | Distance | Location | Bib #, Results<br />(Steve) | Bib #, Results<br />(Liz) |
 | -------- | ---- | :------: | -------- | --------------------------: | ------------------------: |
-| 06/15/19 | [No Label Brewing 1st Street 5K](http://www.runintexas.com/beerrun) 2019<br />([Texas 5K 6-Pack](http://www.runintexas.com/sixpack) 2018) | 5km | Katy, TX | [656, 35:54](http://www.iaapweb.com/results/19/06_15_19_nolabel.htm) | [655, 30:53](http://www.iaapweb.com/results/19/06_15_19_nolabel.htm) |
+| 08/03/19 | [Southern Star Brewing Co. 5K](http://www.runintexas.com/star) 2019 | 5km | Conroe, TX | [315, 32:03](http://onlineraceresults.com/race/view_race.php?race_id=69382) | [305, 32:33](http://onlineraceresults.com/race/view_race.php?race_id=69382) | 
+| 06/15/19 | [No Label Brewing 1st Street 5K](http://www.runintexas.com/beerrun) 2019 | 5km | Katy, TX | [656, 35:54](http://www.iaapweb.com/results/19/06_15_19_nolabel.htm) | [655, 30:53](http://www.iaapweb.com/results/19/06_15_19_nolabel.htm) |
 | 04/14/19 | [Vintage Park 5K](https://runsignup.com/Race/Events/TX/Houston/VintageParkHalfMarathon) 2019 | 5km | Houston, TX | [3312, 28:00](https://runsignup.com/Race/Results/33939/IndividualResult/QZfB?#U16542677) | [3313, 30:26](https://runsignup.com/Race/Results/33939/IndividualResult/QZfB?#U16542678) |
 | 04/13/19 | [Shipley Do-Nuts Dash](http://www.shipleydonutsdash.com/) 2019 | 1.75mi | Houston, TX | untimed | untimed |
 | 02/09/19 | [Bearkat Bash](http://www.bearkatbash5k.com/) 2019 | 5km | Houston, TX | [412, 28:09](https://www.runhoustontiming.net/race_result/1549733462_3070675_Bearkat%20FInish%20Age%20Groups%204.htm) | [411, 31:46](https://www.runhoustontiming.net/race_result/1549733462_3070675_Bearkat%20FInish%20Age%20Groups%204.htm) |
