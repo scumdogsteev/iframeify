@@ -1,7 +1,7 @@
 ### Future
 
 |   Date   | Race | Distance | Location |
-| -------- | ---- | :------: | -------- |
+| -------: | ---- | :------: | -------: |
 | 11/23/19 | [The Great Houston Pie Run](https://houstonrunningco.com/the-great-houston-pie-run-5k) | 5km | Houston, TX |
 | 11/28/19 | [Phillips 66 Turkey Trot](https://houstonturkeytrot.org/) 2019 | 10km | Houston, TX |
 | 12/07/19 | [Real Ale Brewing Co. 5K](http://www.runintexas.com/real) 2019 | 5km | Blanco, TX |
@@ -14,7 +14,7 @@
 ### Past
 
 |   Date   | Race | Distance | Location | Bib #, Results<br />(Steve) | Bib #, Results<br />(Liz) |
-| -------- | ---- | :------: | -------- | --------------------------: | ------------------------: |
+| -------: | ---- | :------: | -------: | --------------------------: | ------------------------: |
 | 11/02/19 | [Back Pew Brewing Co. 5K](http://www.runintexas.com/pew) 2019 | 5km | Porter, TX | [249, 27:05](http://www.runintexas.com/wp-content/uploads/2019/11/Back-Pew-Age-Groups-2019.htm) | [248, 29:43](http://www.runintexas.com/wp-content/uploads/2019/11/Back-Pew-Age-Groups-2019.htm) | 
 | 08/03/19 | [Southern Star Brewing Co. 5K](http://www.runintexas.com/star) 2019 | 5km | Conroe, TX | [315, 32:03](http://onlineraceresults.com/race/view_race.php?race_id=69382) | [305, 32:33](http://onlineraceresults.com/race/view_race.php?race_id=69382) | 
 | 06/15/19 | [No Label Brewing 1st Street 5K](http://www.runintexas.com/beerrun) 2019 | 5km | Katy, TX | [656, 35:54](http://www.iaapweb.com/results/19/06_15_19_nolabel.htm) | [655, 30:53](http://www.iaapweb.com/results/19/06_15_19_nolabel.htm) |
