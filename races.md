@@ -17,8 +17,8 @@
 
 |Date       |Race                                                                                    |Distance |Location    |
 |:----------|:---------------------------------------------------------------------------------------|:--------|:-----------|
-|2020-04-05 |[Saint Arnold Art Car IPA 5K](https://artcar5k.com/)                                    |5km      |Houston, TX |
 |2020-04-19 |[Vintage Park 5K](https://runsignup.com/Race/Events/TX/Houston/VintageParkHalfMarathon) |5km      |Houston, TX |
+|2020-11-08 |[Saint Arnold Art Car IPA 5K](https://artcar5k.com/)                                    |5km      |Houston, TX |
 
 ### Past
 

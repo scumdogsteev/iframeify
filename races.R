@@ -36,8 +36,15 @@ dat <- read_xlsx("races.xlsx", sheet = "final", trim_ws = TRUE,
 ###################
 
 ## create past table with original time formatting
-
 dat_past <- dat %>% filter(Date <= today())
+
+## pattern to extract from distance
+pat <- "\\d+\\.*\\d*"
+
+## create second past table, converting time formatting to hms objects
+dat_past2 <- dat_past %>% mutate_at(vars(matches("Results"), 
+                                         -matches("URL")), hms, 
+                                    quiet = TRUE)
 
 ## count races for both Steve and Elizabeth; not done in main summary 
 ## table because of desire to count "untimed" races
@@ -115,11 +122,6 @@ dat_future <- dat %>% filter(Date > today()) %>%
 ## PAST TABLE ##
 ################
 
-## create second past table, converting time formatting to hms objects
-dat_past2 <- dat_past %>% mutate_at(vars(matches("Results"), 
-                                         -matches("URL")), hms, 
-                                    quiet = TRUE)
-
 ## format past table, replacing NAs
 dat_past  <- dat_past %>% replace_na(list(`Steve Bib Number` = "",
                                           `Steve Results` = "",
@@ -153,9 +155,6 @@ dat_past  <- dat_past %>% replace_na(list(`Steve Bib Number` = "",
            )) %>%
   ## drop unneeded fields  
   select(-c(`Race URL`, `Steve Results URL`, `Steve Note`, `Elizabeth Results URL`, `Elizabeth Note`))
-
-## pattern to extract from distance
-pat <- "\\d+\\.*\\d*"
 
 ###################
 ## EXPORT TO .MD ##
