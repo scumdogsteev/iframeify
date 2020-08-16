@@ -109,7 +109,7 @@ race_summary <- left_join(race_summary, race_counts) %>%
 ## create future table by filtering to only future dates
 dat_future <- dat %>% filter(Date > today()) %>% 
   
-  ## drop unnedded fields
+  ## drop unneeded fields
   select(c(Date, Race, `Race URL`, Distance, Location)) %>% 
   
   ## format links appropriately for markdown
