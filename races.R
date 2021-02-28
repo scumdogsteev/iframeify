@@ -35,8 +35,9 @@ dat <- read_xlsx("races.xlsx", sheet = "final", trim_ws = TRUE,
 ## SUMMARY TABLE ##
 ###################
 
-## create past table with original time formatting
-dat_past <- dat %>% filter(Date <= today())
+## create past table with original time formatting, remove future
+## dates, and sort in reverse chronological order
+dat_past <- dat %>% filter(Date <= today()) %>% arrange(desc(Date))
 
 ## pattern to extract from distance
 pat <- "\\d+\\.*\\d*"
