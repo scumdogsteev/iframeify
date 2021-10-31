@@ -15,8 +15,12 @@
 
 ### Future
 
-|Date |Race |Distance |Location |
-|:----|:----|:--------|:--------|
+|Date       |Race                                                                   |Distance |Location    |
+|:----------|:----------------------------------------------------------------------|:--------|:-----------|
+|2021-11-07 |[Saint Arnold Art Car IPA 5K](https://artcar5k.com/)                   |5km      |Houston, TX |
+|2021-11-25 |[Phillips 66 Turkey Trot](https://houstonturkeytrot.org/)              |10km     |Houston, TX |
+|2022-01-15 |[We Are Houston 5K](http://www.chevronhoustonmarathon.com/)            |5km      |Houston, TX |
+|2022-01-16 |[Aramco Houston Half Marathon](http://www.chevronhoustonmarathon.com/) |13.1mi   |Houston, TX |
 
 ### Past
 
