@@ -135,8 +135,10 @@ dat_past  <- dat_past %>% replace_na(list(`Steve Bib Number` = "",
                               `Race URL`, ")")), 
          `Steve Results` = 
            paste0(ifelse(is.na(`Steve Results URL`), 
-                         `Steve Results`, 
-                         paste0("[", 
+                         `Steve Results`,
+                         ## need to update the next line
+                         ## if any results are ever >= 10 hours
+                         paste0("[", '0',
                                 `Steve Results`, 
                                 "](", 
                                 `Steve Results URL`, ")")),
@@ -146,7 +148,9 @@ dat_past  <- dat_past %>% replace_na(list(`Steve Bib Number` = "",
          `Elizabeth Results` =
            paste0(ifelse(is.na(`Elizabeth Results URL`), 
                          `Elizabeth Results`, 
-                         paste0("[", 
+                         ## need to update the next line
+                         ## if any results are ever >= 10 hours
+                         paste0("[", '0',
                                 `Elizabeth Results`, 
                                 "](", 
                                 `Elizabeth Results URL`, ")")),
