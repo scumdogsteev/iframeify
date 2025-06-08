@@ -1,13 +1,14 @@
 ## iframeify.R
 ## by Steve Myles / https://stevemyles.site/
 ## 10 February 2019
-##
+## updated 7 June 2025
 ## converts a markdown file into an iframe-able html file for embedding in
 ## another site such as tumblr
 
 ## load knitr and stringr packages
 library(knitr)
 library(stringr)
+library(rmarkdown)
 
 iframeify <- function(filename, stylesheet = "styles.css", styles = "styles.txt") {
 
@@ -19,9 +20,10 @@ iframeify <- function(filename, stylesheet = "styles.css", styles = "styles.txt"
     if (!file.exists(stylesheet))
       stylesheet = ""
 
-    ## knit
-    knit2html(md_filename, html_filename, stylesheet = stylesheet)
-
+    ## render
+    ##knit2html(md_filename, html_filename, stylesheet = stylesheet)
+    render(md_filename, output_format = html_document(css = stylesheet))
+    
     ## read the html and styles files into memory; if styles does not exist,
     ## replace it with opening html <style> tag
     html <- readLines(html_filename)
